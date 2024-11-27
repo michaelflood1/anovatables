@@ -28,7 +28,7 @@ each grid section containts one participants data from their respective set
 
 each row is averaged out. lets take set a from above
 
-$ \frac{90 + 85 +70 + 80}{4} = 81.25 $ 
+$ \frac{90 + 85 +70 + 80}{4} = 81.25$ 
 
 we now fill each grid section for set A with the average score of that treatments participants
 
